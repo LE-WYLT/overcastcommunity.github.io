@@ -10,4 +10,4 @@ Today we are happy to announce that you will be able to buy our merch! We have a
 
 Check out the shop at [oc.tc/shop](https://oc.tc/shop/)!
 
-Unfortunately our stock has been delayed due to the Ever Given ship being stuck blocking the Suez Canal. But you can still reserve items and get notified by email.
+Unfortunately our stock has been delayed due to the Ever Given ship being stuck blocking the Suez Canal. But you can still reserve items and get notified by our Discord bot Cloudy.
